@@ -5,7 +5,7 @@
 <h3 align="center">Web Developer | Aspiring Agentic Engineer</h3>
 
 <p align="center">
-  A passionate Web Developer from Vietnam 🇻🇳, eager to build seamless applications and systems. Currently honing my skills at <b>Hanoi University of Science and Technology (HUST)</b> and constantly gaining hands-on experience through internships and jobs.
+  A passionate Web Developer from Vietnam 🇻🇳, eager to build seamless applications and systems. Currently honing my skills at <b>Hanoi University of Science and Technology (HUST)</b>.
 </p>
 
 ---
@@ -50,6 +50,7 @@
   <p>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   </p>
@@ -58,8 +59,8 @@
   <summary><b>🤖 AI Pair Programmers</b></summary>
   <br/>
   <p>
-    <img src="https://img.shields.io/badge/Claude-613A30?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-    <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+    <img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
     <img src="https://img.shields.io/badge/AI_Workflow-FFD700?style=for-the-badge&logo=brain&logoColor=black" alt="AI-Augmented Development" />
   </p>
 </details>
