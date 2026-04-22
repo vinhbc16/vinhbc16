@@ -21,7 +21,7 @@
 
 ### 🛠️ Tech Stack & Skills
 
-<details>
+<details open>
   <summary><b>👨‍💻 Languages</b></summary>
   <br/>
   <p>
@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   </p>
 </details>
-<details>
+<details open>
   <summary><b>🤖 AI Pair Programmers</b></summary>
   <br/>
   <p>
