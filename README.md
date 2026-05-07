@@ -1,21 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Vinh%20Cao!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38" />
 </div>
-
-<h3 align="center">Web Developer | Aspiring Agentic Engineering</h3>
-
 <p align="center">
   A passionate Web Developer from Vietnam 🇻🇳, eager to build seamless applications and systems. Currently honing my skills at <b>Hanoi University of Science and Technology (HUST)</b>.
 </p>
 
 ---
-
-### 🚀 About Me
-
-* 💻 Currently focusing on developing web applications with scalable architectures.
-* 🎯 **Big Goal:** Become an **Agentic Engineering** – bringing the power of AI into automation and software development.
-* 📍 Living, studying, and working in **Hanoi, Vietnam** 🇻🇳.
-* 🌱 Constantly exploring and learning new technologies every day.
 
 ---
 
@@ -85,5 +75,5 @@ If you want to discuss technology, interesting projects, or just make a new frie
 
 ---
 
-### ✨ Fun Fact
-😆 *My very first code might have been full of bugs, but now... I know how to use Docker to containerize those bugs and ship them to someone else's machine!* <br/>
+### Fun Fact
+*My very first code might have been full of bugs, but now... I know how to use Docker to containerize those bugs and ship them to someone else's machine!* <br/>
