@@ -7,8 +7,6 @@
 
 ---
 
----
-
 ### 🛠️ Tech Stack & Skills
 
 <details open>
